@@ -1,26 +1,31 @@
 # Microcontrollers-BasicCircuitProject-HeatAlarm
 
 <pre>
-  • Air Conditioning for a Plant or house using Heat/Cool Temperature Proportional Control.
-  Using:
+  • Basic Hardware Project - Heating Alarm - Microcontrollers & Electronics Circuit.
+  This is a basic circuit that prints a name on the LCD then by using a temperature sensor it keeps checking if the temperature is below 28 °Celsius.
+  If the temperature > 28 °Celsius, A buzzer will start the alarming, and a warning will be sent to the PC by a Serial Communication FTDI.
+  Using:    
+    Software: 
     PICSimLab V.7.5 (PIC18F4620).
     MPLAB X IDE V.5.35 with XC8 Compiler.
-    Tera Term VT for Virtual Serial Communication & com0com for setting UP the virtual Connection.
-    * Cooler works with Pulse width modulation module (Timer 2).
-    * Heater works with programmed PWM (FAKE PWM) using Timer 3 with 400ms period in total.
-    More details in the PDF File or in the youtube video.
-    
-    Software Tools: 
-    PICSimLab V.7.5 (PIC18F4620).
-    MPLAB X IDE V.5.35 with XC8 Compiler.
-    Tera Term VT for  Serial Communication with the PIC.
+    Bootloader.
+    Tera Term VT for  Serial Communication with FTDI.
     
     Hardware:
-    4MHz Crtystal, USB TTL Serial Cables - FTDI (CP2102 Modules), Variable resistor, PIC18F4620 Microchips, Capacitors, LCD, LEDs, Breadboard, and Ticking bomb electronic circuit.
+    4MHz Crtystal
+    USB TTL Serial Cables - FTDI (CP2102 Modules)
+    Variable resistor
+    PIC18F4620 - Microchip
+    Capacitors
+    LCD
+    LEDs
+    Breadboard
+    Ticking bomb electronic circuit (Description in the Picture).
     
 </pre>
-[VIDEO](https://youtu.be/2XWClmMTy2I)
 
-![](PIC.png)
+![](1650134322666.jpeg)
+![](ElectronicCircuit.PNG)
+![](CIRCUIT.jpg)
 
 
