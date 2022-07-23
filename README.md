@@ -1,8 +1,5 @@
 # Microcontrollers-BasicCircuitProject-HeatAlarm
 
-# PlantAirConditioner-PIC18F4620-PICSimLab
-# Microcontrollers-PIC18F4620-AirConditioner
-
 <pre>
   • Air Conditioning for a Plant or house using Heat/Cool Temperature Proportional Control.
   Using:
